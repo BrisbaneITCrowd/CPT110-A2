@@ -100,6 +100,10 @@ As well as the work environment, the type of work can also play a important role
 
 ### Lee
 
-< pending >
+It hasn’t changed my opinion whatsoever, if anything, it has inspired me to continue on with this choice of career path. The demand is high and it is challenging and rewarding work. Another factor is that the skillset is transferable to other areas of development. By not being restricted to one particular line of development makes perfect sense to me. The ability to travel anywhere, and work in any part of the world this is extremely appealing to me.
+
+With the knowledge and skillsets developed, freelance work could also be an avenue of opportunity available to utilise as an additional source of income.
+
+Although mobile application development doesn't feature highly on the top occupations ladder, the programming skillset would still avail me to other industry specific opportunities.
 
 -----
