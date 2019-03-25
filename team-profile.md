@@ -72,7 +72,7 @@ Paul: < awaiting content from Paul >
 
 Nick: < awaiting content from Nick >
 
-Lee: introverted, sensing, thinking, judging, openness, introverted, agreeable, conciencoious
+Lee: introverted, sensing, thinking, judging, openness, introverted, agreeable, conscientious
 
 ### Summary and Analysis
 
