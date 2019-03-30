@@ -1,6 +1,7 @@
-##Raspberry Pi
+ ##Raspberry Pi
 
 **What is the state of the art of this new technology?**
+
 A Raspberry Pi is one of the worlds smallest desktop (or portable) computers. It is about the size of a credit-card and consists of a processor, RAM (random access memory) and standard hardware ports you would associate with most computers. With almost everything similar to a regular computer, this means you’re able to do most things a desktop computer can do.
 You can edit documents, you can watch HD video, you can play games, you can surf the internet, you can use it as an Onion router (more on this later) or you can simply use it for coding.
 Generally speaking you will install Raspbian OS (a Debian based operating system, which is a flavor of Linux).
