@@ -8,7 +8,7 @@
 A Raspberry Pi is one of the worlds smallest desktop (or portable) computers. It is about the size of a credit-card and consists of a processor, RAM (random access memory) and standard hardware ports you would associate with most computers. 
 With almost everything similar to a regular computer, this means you’re able to do most things a desktop computer can do.
 You can edit documents, you can watch HD video, you can play games, you can surf the internet, you can use it as an 
-[Onion router] (https://www.raspberrypi.org/magpi/tor-router/) or you can simply use it for coding.
+[Onion router](https://www.raspberrypi.org/magpi/tor-router/) or you can simply use it for coding.
 Generally speaking you will install Raspbian OS (a Debian based operating system, which is a flavor of Linux).
 This OS is different to windows in many ways however it isn’t too difficult to navigate around and there is plenty of help out there in the Raspberry Pi community to find what you’re looking for.
 The current model is a Raspberry Pi 3 model B+ which has the following specs:
