@@ -72,7 +72,6 @@ I think this will create more jobs for business as the continual shift toward cl
 This will allow more room in the budget for more staff to join and help grow the business.
 
 Whether that be in sales or customer service, who knows? but it would be a potential and significant shift in the way IT is used in future business.
-
 The downside to this might be in the sales arena of the bigger manufacturing companies that produce desktop computers for business use.
 
 I would expect to see either a pushback from these companies to retain their clients or they would adopt the technology and  submit their own products into the marketplace.
@@ -111,7 +110,7 @@ I may not be personally affected by future developments with the Pi but I’m ce
  
 
 **References:**
-(https://www.quora.com/What-are-the-future-scopes-of-Raspberry-Pi)
+https://www.quora.com/What-are-the-future-scopes-of-Raspberry-Pi
 
 (https://pimylifeup.com/category/projects/)
 
