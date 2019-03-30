@@ -1,2 +1,3 @@
+# Our Team
 
-hello
+[Team Profile}(team-profile.md)
