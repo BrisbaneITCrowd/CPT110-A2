@@ -1,7 +1,7 @@
 
 ## Raspberry Pi
 
-![Image of Raspberry Pi](https://octodex.github.com/images/yaktocat.png)
+![Image of Raspberry Pi](https://github.com/BrisbaneITCrowd/CPT110-A2/blob/task-5-it-technologies/Desktop-Starter-Kit-300x200.jpg)
 
 **What is the state of the art of this new technology?**
 
