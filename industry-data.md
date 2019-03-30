@@ -6,6 +6,7 @@
 - Senior Technology Officer
 - Software Engineer
 - Mobile Application Developer
+- Test
 
 ## How do each of these rank in terms of demand from employers?
 
