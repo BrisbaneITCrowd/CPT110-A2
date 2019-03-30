@@ -1,4 +1,4 @@
-## Team Name
+# Team Name
 
 Brisbane IT Crowd
 
@@ -42,11 +42,15 @@ Much like some of the others in the group, Andrew has been working in technology
 
 ### Paul Harmon
 
-< awaiting content from Paul >
+Name: Paul Harmon
 
-### Nick Knight
+Student number: s3789959
 
-< awaiting content from Nick >
+Paul has been immersed in technology for many years, having started using computers during his school years. Even after taking a break from technology soon after leaving school, Paul has since been drawn back to the technology industry.
+
+Paul, like Charlon, speaks another language, being Japanese and is making progress with Cantonese. Living with two dogs, Koko and Spot, in Central Queensland, takes up Paul's time when not woking on his own personal data centre located in his house.
+
+Paul is an advocate for positive and constructuve attitudes towards mental illness and other conditions affecting the brain, placing a focus of the importance of acceptance for those of us who are outside societies norms.
 
 ### Lee May
 
@@ -68,13 +72,11 @@ Charlon: extraverted, formal, serious, quiet and reserved, analytic mind frame
 
 Andrew: advocate, idealistic, task oriented, visual learner, practical, openness, conscientious, agreeable
 
-Paul: < awaiting content from Paul >
-
-Nick: < awaiting content from Nick >
+Paul: mediator, analytic, diplomat, principled, visual leaner, structured, ordered, creative, clam under pressure
 
 Lee: introverted, sensing, thinking, judging, openness, introverted, agreeable, conscientious
 
-### Summary and Analysis
+### Team Profile Summary and Analysis
 
 The results from the three personality tests completed by each member of the team indicates that while there are a number of similarities, there are also comparative differences. The common personality traits that each person has, shows that there is a solid foundation of a task focused, analytical and collaborative work ethic that will prove very useful for this assignment as well as any future assignments that this same group works on together.
 
@@ -92,13 +94,11 @@ Charlon: Senior Technology Officer - management, project management, systems adm
 
 Andrew: Software Engineer - programming, problem solving
 
-Paul: < awaiting content from Paul >
-
-Nick: < awaiting content from Nick >
+Paul: Cyper Security Practice Lead - cryptography, systems adminsitration, security management, problem solving
 
 Lee: Mobile Application Developer - programming, problem solving
 
-### Summary and Analysis
+### Ideal Jobs Summary and Analysis
 
 There are two very distinct career plans evident in the chosen ideal jobs by members of the team.
 
