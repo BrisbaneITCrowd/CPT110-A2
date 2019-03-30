@@ -81,7 +81,8 @@ _Source: Burning Glass - Top Generic Skills March 2018.pdf_
 
 ### Charlon
 
-< pending >
+My career path is to be a senior technical officer, focusing on providing operational support to the hospital and health services sites. 
+
 
 ### Andrew
 
