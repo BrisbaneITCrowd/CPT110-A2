@@ -1,4 +1,7 @@
-  ## Raspberry Pi
+
+## Raspberry Pi
+
+![Image of Raspberry Pi](https://octodex.github.com/images/yaktocat.png)
 
 **What is the state of the art of this new technology?**
 
@@ -39,6 +42,7 @@ The future of Raspberry Pi could be that it is used in small to medium businesse
 Some companies are already re-developing the Pi and creating actual thin clients for the market. With the current trend in virtualization this is being taken into consideration and the Pi will be used as virtual desktops and applications.
 
 **What is the likely impact?**
+
 The likely impact of this new development which will see the Raspberry Pi being used in virtualization would see many more new startups coming in to play. 
 With the current price and the ability to virtualize and utilize cloud services the cost of initial hardware setup has dramatically reduced.
 As more and more businesses look to save money, the way forward for them could be by utilizing the Pi for everyday use. 
@@ -52,6 +56,7 @@ I would expect to see either a pushback from these companies to retain their cli
 Businesses would no longer need to supply laptops for staff to work from home as the Pi is extremely portable and can be taken anywhere, plugged in anywhere and used from wherever the user wants.
 
 **How will this affect you?**
+
 As a business manager I can see the potential for switching over to these current trends and technologies and the benefits that would result.
 What would be different for me is that I wouldn’t have to supply every staff member with either laptops or expensive smartphones as they could take the Raspberry pi home or even out on jobs.
 As the Pi has the ability to connect wirelessly and a touch screen can be connected, the Pi can be used as a mini tablet or phone.
