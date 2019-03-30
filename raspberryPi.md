@@ -70,7 +70,6 @@ They could also use one single Pi as a virtual host and potentially save even fu
 I think this will create more jobs for business as the continual shift toward cloud based services and the lessening of traditional server rooms based onsite means the IT budget will shrink substantially.
 
 This will allow more room in the budget for more staff to join and help grow the business.
-
 Whether that be in sales or customer service, who knows? but it would be a potential and significant shift in the way IT is used in future business.
 The downside to this might be in the sales arena of the bigger manufacturing companies that produce desktop computers for business use.
 
@@ -110,10 +109,11 @@ I may not be personally affected by future developments with the Pi but I’m ce
  
 
 **References:**
+
 https://www.quora.com/What-are-the-future-scopes-of-Raspberry-Pi
 
-(https://pimylifeup.com/category/projects/)
+https://pimylifeup.com/category/projects/
 
-(https://www.clearcube.com/wp-content/uploads/2018/08/DS-C3Pi-plus.pdf)
+https://www.clearcube.com/wp-content/uploads/2018/08/DS-C3Pi-plus.pdf
 
 
