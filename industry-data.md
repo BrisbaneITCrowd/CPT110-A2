@@ -17,7 +17,6 @@
 | Software Engineer | Software Engineer | 11 | 539 |
 | Mobile Application Developer | Front End Developer | 6 | 738 |
 | | | | |
-
 _Source: Burning Glass - Top IT Job Titles March 2018.pdf_
 
 From your group's ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group's required skill set). These can be divided into general skills (communication, problem solving, writing etc) and IT-specific skills (JavaScript, SQL, etc).
