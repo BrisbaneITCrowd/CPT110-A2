@@ -1,3 +1,3 @@
 # Our Team
 
-[Team Profile}(team-profile.md)
+[Team Profile](team-profile.md)
