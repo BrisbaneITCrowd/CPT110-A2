@@ -31,6 +31,7 @@ The initial goal of Raspberry Pi developers was to increase the number of people
 The creators had no idea that adults would also be interested in the product and subsequently sold over 10 million units within a four year period.
 
 There are many Raspberry projects available through quick internet searches for you to follow.
+
 Some such projects are:
 * Setting up your Pi as a VPN
 * Using your Pi as a portable gaming console (mainly for retro games)
