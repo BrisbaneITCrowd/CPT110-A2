@@ -48,6 +48,7 @@ Some such projects are:
 
 These things plus many more are things that the Pi is capable of doing now with the technology we have available. The list is growing everyday as people invent new ideas of what they can use their Pi for.
 
+
 As new developments emerge, the possibilities of new project uses for the Pi increase.
 
 The future of Raspberry Pi could be that it is used in small to medium businesses as a thin client and connect to the cloud. The potential savings of replacement traditional desktop computers would be enormous as the Pi is generally around the $50 price tag.
@@ -111,7 +112,9 @@ I may not be personally affected by future developments with the Pi but I’m ce
 
 **References:**
 (https://www.quora.com/What-are-the-future-scopes-of-Raspberry-Pi)
+
 (https://pimylifeup.com/category/projects/)
+
 (https://www.clearcube.com/wp-content/uploads/2018/08/DS-C3Pi-plus.pdf)
 
 
