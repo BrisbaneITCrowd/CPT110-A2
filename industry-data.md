@@ -81,8 +81,7 @@ _Source: Burning Glass - Top Generic Skills March 2018.pdf_
 
 ### Charlon
 
-My career path is to be a senior technical officer, focusing on providing operational support to the hospital and health services sites. 
-
+My ideal job would be to entertain the idea of working in a full time, permanent role in Information Technology. My previous role was ensuring that the computer systems in a major hospital in Brisbane was up to date.  The role was exciting, perhaps a bit intimidating due to the fact that I was communicating with medical professionals.  Patient care was our priority and the challenges that was part of my role became quite exciting in a way that there was no room for any errors. My ideal job in the near future is to work towards being a Senior Technlogy Officer. The role is very technical, providing operational support to Queensland Health sites, configuring, installing and managing their ICT environments. My current skillset encompasses all that is required for the position, with over 20 years of ICT knowledge and experience. I have provided support to investigate and diagnose incidents and providing remedial action, providing excellent customer service by applying communication skills with an ability to negotiate, advise and work collaboratively with others.
 
 ### Andrew
 
