@@ -14,7 +14,7 @@ Medical staff within the hospital health service sites, Qld Health internal stak
 
 # Are they IT professionals? Clients? Investors? The general public? 
 
-THe general public doesn't play a part in Mr Karimi's daily interaction, however, patient care is his number one priority. DUring the time that I interviewed Mr Karimi, he was contacted by other IT professionals such as his project manager, who was querying on another project that Mr Karimi was involved in, to attain some details in regards to a replacement of a Queensland Health.
+The general public doesn't play a part in Mr Karimi's daily interaction, however, patient care is his number one priority. During the time that I interviewed Mr Karimi, he was contacted by other IT professionals such as his project manager, who was querying on another project that Mr Karimi was involved in, to attain some details in regards to a replacement of a Queensland Health.
 
 # Where does the IT professional spend most of their time? 
 
