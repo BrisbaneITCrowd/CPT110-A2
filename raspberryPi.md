@@ -12,13 +12,13 @@ With almost everything similar to a regular computer, this means you’re able t
 You can edit documents, you can watch HD video, you can play games, you can surf the internet, you can use it as an 
 [Onion router](https://www.raspberrypi.org/magpi/tor-router/) or you can simply use it for coding.
 
-Generally speaking you will install Raspbian OS (a Debian based operating system, which is a flavor of Linux).
+Generally speaking you will install Raspbian OS (a Debian based operating system, which is a flavour of Linux).
 
-This OS is different to windows in many ways however it isn’t too difficult to navigate around and there is plenty of help out there in the Raspberry Pi community to find what you’re looking for.
+This OS is different to Windows in many ways, however, it isn’t too difficult to navigate around and there are plenty of help out there in the Raspberry Pi community to find what you’re looking for.
 
 **The current model is a Raspberry Pi 3 model B+ which has the following specs:**
 * 1.4GHz 64-bit quad-core processor
-* dual-band wireless LAN
+* Dual-Band Wireless LAN
 *	Bluetooth 4.2/BLE
 *	Faster Ethernet
 *	1GB LPDDR2 SDRAM
@@ -63,14 +63,14 @@ With the current price and the ability to virtualize and utilize cloud services 
 
 As more and more businesses look to save money, the way forward for them could be by utilizing the Pi for everyday use. 
 
-All the Pi would be doing is basically connecting to their existing cloud service and dependent on the application, the processing power of the Pi would be enough to get them through. 
+All the Pi would be doing is basically connecting to their existing cloud service and dependent on the application; the processing power of the Pi would be enough to get them through. 
 
 They could also use one single Pi as a virtual host and potentially save even further by have two or more users accessing virtual machines from the host Pi.
 
-I think this will create more jobs for business as the continual shift toward cloud based services and the lessening of traditional server rooms based onsite means the IT budget will shrink substantially.
+I think this will create more jobs for businesses as the continual shift toward cloud based services and the lessening of traditional server rooms based onsite means the IT budget will shrink substantially.
 
 This will allow more room in the budget for more staff to join and help grow the business.
-Whether that be in sales or customer service, who knows? but it would be a potential and significant shift in the way IT is used in future business.
+Whether that be in sales or customer service, who knows? But it would be a potential and significant shift in the way IT is used in future business.
 The downside to this might be in the sales arena of the bigger manufacturing companies that produce desktop computers for business use.
 
 I would expect to see either a pushback from these companies to retain their clients or they would adopt the technology and  submit their own products into the marketplace.
@@ -79,7 +79,7 @@ Businesses would no longer need to supply laptops for staff to work from home as
 
 **How will this affect you?**
 
-As a business manager I can see the potential for switching over to these current trends and technologies and the benefits that would result.
+As a business manager, I can see the potential for switching over to these current trends and technologies and the benefits that would result.
 
 What would be different for me is that I wouldn’t have to supply every staff member with either laptops or expensive smartphones as they could take the Raspberry pi home or even out on jobs.
 
