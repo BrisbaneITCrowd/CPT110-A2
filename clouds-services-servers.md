@@ -1,4 +1,3 @@
-
 ## Clouds, Services, Servers
 
 As what computers do get more complicated, the tasks they perform grow more diverse and the results are needed to be accessed from more and more locations. The needs of the average user have gotten beyond the said user's ability to afford or maintain. 
@@ -7,7 +6,7 @@ To combat this in the new millennium the “cloud” has moved from a vague buzz
 
 I think to properly discuss, I need to define the three terms individually:
 
-**Cloud,**
+#Cloud,
 
 There is a joke amongst IT people, “There is no cloud, it is just someone else’s computer” and to be honest this is true, The cloud is someone else’s computer sitting in someone elses network connected to the Internet, however most people including System administrators, do not need to know what sort of hardware, network or operating system the infrastructure is running on, all you need to worry about is the service you require is up accessible and stable. 
 
