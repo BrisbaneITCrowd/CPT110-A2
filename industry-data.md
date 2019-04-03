@@ -76,7 +76,7 @@ _Source: Burning Glass - Top Generic Skills March 2018.pdf_
 
 ### Darren
 
-< pending >
+My ideal role has not changed. From the beginning up until this point I understand that a lot of hard work and many years of ICT related study need to be accomplished before I can get there. I've already been working in IT for over 14 years so I have come to the realisation that time does fly and if I manage to successfully study outside of work time that I can reach my goals and before I know it can find myself educated and experienced enough to land such a position.
 
 ### Charlon
 
