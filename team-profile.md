@@ -19,3 +19,7 @@ While there are a number of introverted personalities, the contrasting extravert
 Everyone shows an openness and a level of agreeableness that will encourage a positive, supportive and level of inclusion for all team members. Overall, and based on the test results, the team should achieve a good working environment, during both face to face meetings, as well as remote, virtual meetings, that will focus on productive, task oriented outcomes.
 
 Maintaining this personality momentum will most likely be the only challenge as the course progresses and the work loads increase. However, after the initial face to face meeting held last Saturday, there are very positive indications that each team member will be able to contribute thoroughly while at the same time providing a supportive environment for any team member that requires assistance.
+
+-----
+
+[Home](index.md)

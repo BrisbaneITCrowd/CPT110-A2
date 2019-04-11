@@ -69,3 +69,7 @@ Lee's interest in IT originated from performing upgrades, repairs and assisting 
 Since then, the ability to create software to provide solutions for business outcomes, a well as personal interest, has led to Lee seeking further knowledge in software development, turning this interest into career aspirations.
 
 [Lee May's Profile](https://lee111may.github.io/gh-pages/)
+
+-----
+
+[Home](index.md)

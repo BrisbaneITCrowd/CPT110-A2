@@ -21,3 +21,7 @@ The second career type is focused on software development of different types of 
 While these two career paths follow different specifics, they are both similar in some respects. They require a number of years of experience in similar roles, and the environments in which they operate are almost identical. The environment is based around creating, managing and delivering solutions that requires knowledge of technology systems, the ability to develop software to interact with systems and the leadership to guide other individuals to achieving the outcomes required.
 
 So far as the dynamic of the group is concerned, with relation to the ideal jobs, the overall career direction of all team members is very similar. Each person desires a role that creates software based solutions. This desire fits in nicely with the content of this course as well as the other courses likely to be undertaken in the coming study periods.
+
+-----
+
+[Home](index.md)
