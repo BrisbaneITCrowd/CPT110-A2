@@ -39,4 +39,3 @@
 [Group Reflection - Paul](group-reflection-paul.md)
 
 [Group Reflection - Team Summary](group-reflection-team.md)
-
