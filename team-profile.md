@@ -11,7 +11,6 @@
 | Andrew Gartner | Advocate (INFJ-A) | Visual Learner | advocate, idealistic, task oriented, visual learner, practical, openness, conscientious, agreeable |
 | Paul May | The Mediator (INFP-A) | Visual Learner | mediator, analytic, diplomat, principled, visual leaner, structured, ordered, creative, clam under pressure |
 | Lee May | The Inspector (ISTJ) | Visual Learner | introverted, sensing, thinking, judging, openness, introverted, agreeable, conscientious |
-| | | | |
 
 ## Team Profile Summary and Analysis
 
