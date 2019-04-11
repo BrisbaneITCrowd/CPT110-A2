@@ -4,7 +4,7 @@
 
 ## Darren Bonelli
 
-Name: Darren Bonelli [Profile](https://darrenb84.github.io/MyWebsite/)
+Name: Darren Bonelli > [Profile](https://darrenb84.github.io/MyWebsite/)
 
 Student number: s3793513
 
@@ -18,7 +18,7 @@ Starting with gaining access to computers and the internet in libraries, interne
 
 ## Charlon Cachuela
 
-Name: Charlon Cachuela [Profile](https://s3793506.github.io/charlon/)
+Name: Charlon Cachuela > [Profile](https://s3793506.github.io/charlon/)
 
 Student number: s3793506
 
@@ -32,7 +32,7 @@ Charlon has been working in ICT for over 20 years and this level of experience w
 
 ## Andrew Gartner
 
-Name: Andrew Gartner [Profile](https://s3526562.github.io/cpt110/assignment-01/index.html)
+Name: Andrew Gartner > [Profile](https://s3526562.github.io/cpt110/assignment-01/index.html)
 
 Student number: s3526562
 
@@ -46,7 +46,7 @@ Much like some of the others in the group, Andrew has been working in technology
 
 ## Paul Harmon
 
-Name: Paul Harmon [Profile](https://ahzrael.github.io/RMIT-IntotoIT-A1/)
+Name: Paul Harmon > [Profile](https://ahzrael.github.io/RMIT-IntotoIT-A1/)
 
 Student number: s3789959
 
@@ -60,7 +60,7 @@ Paul is an advocate for positive and constructuve attitudes towards mental illne
 
 ## Lee May
 
-Name: Lee May [Profile](https://lee111may.github.io/gh-pages/)
+Name: Lee May > [Profile](https://lee111may.github.io/gh-pages/)
 
 Student number: s3770851
 
