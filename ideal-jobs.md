@@ -24,4 +24,4 @@ So far as the dynamic of the group is concerned, with relation to the ideal jobs
 
 -----
 
-[Home](index.md)
+[Home](index.md) | [Personal Information](personal-information.md) | [Team Profile](team-profile.md) | [Ideal Jobs](ideal-jobs.md)

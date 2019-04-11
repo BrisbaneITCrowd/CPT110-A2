@@ -1,5 +1,7 @@
 # Personal Information
 
+-----
+
 ## Darren Bonelli
 
 Name: Darren Bonelli
@@ -13,6 +15,8 @@ Darren's interest in IT stems from early childhood where anything electronic hel
 Starting with gaining access to computers and the internet in libraries, internet cafes and friends places, Darren transformed this into career opportunities in ICT.
 
 [Darren Bonelli's Profile](https://darrenb84.github.io/MyWebsite/)
+
+-----
 
 ## Charlon Cachuela
 
@@ -28,6 +32,8 @@ Charlon has been working in ICT for over 20 years and this level of experience w
 
 [Charlon Cachuela's Profile](https://s3793506.github.io/charlon/)
 
+-----
+
 ## Andrew Gartner
 
 Name: Andrew Gartner
@@ -42,6 +48,8 @@ Much like some of the others in the group, Andrew has been working in technology
 
 [Andrew Gartner's Profile](https://s3526562.github.io/cpt110/assignment-01/index.html)
 
+-----
+
 ## Paul Harmon
 
 Name: Paul Harmon
@@ -55,6 +63,8 @@ Paul, like Charlon, speaks another language, being Japanese and is making progre
 Paul is an advocate for positive and constructuve attitudes towards mental illness and other conditions affecting the brain, placing a focus of the importance of acceptance for those of us who are outside societies norms.
 
 [Paul Harmon's Profile](https://ahzrael.github.io/RMIT-IntotoIT-A1/)
+
+-----
 
 ## Lee May
 
@@ -72,4 +82,4 @@ Since then, the ability to create software to provide solutions for business out
 
 -----
 
-[Home](index.md)
+[Home](index.md) | [Personal Information](personal-information.md) | [Team Profile](team-profile.md) | [Ideal Jobs](ideal-jobs.md)
