@@ -1,6 +1,6 @@
 # Brisbane IT Crowd
 
-[Personal Informaiton](peronal-information.md)
+[Personal Informaiton](personal-information.md)
 
 [Team Profile](team-profile.md)
 
