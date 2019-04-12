@@ -7,7 +7,7 @@
 | Darren Bonelli | Senior Technical Developer | programming, management, leadership, team leader, project management |
 | Charlon Cachuela | Senior Technology Officer | management, project management, systems administration, systems architect |
 | Andrew Gartner | Software Engineer | programming, problem solving |
-| Paul Harmon | Cyper Security Practice Lead | cryptography, systems adminsitration, security management, problem solving |
+| Paul Harmon | Cyper Security Practice Lead | cryptography, systems administration, security management, problem solving |
 | Lee May | Mobile Application Developer | programming, problem solving |
 
 -----
