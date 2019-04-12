@@ -1,14 +1,16 @@
 # Ideal Jobs
 
-Darren: Senior Technical Developer - programming, management, leadership, team leader, project management
+-----
 
-Charlon: Senior Technology Officer - management, project management, systems administration, systems architect
+| Tem Member | Role | Key Skills |
+| --- | --- | --- |
+| Darren Bonelli | Senior Technical Developer | programming, management, leadership, team leader, project management |
+| Charlon Cachuela | Senior Technology Officer | management, project management, systems administration, systems architect |
+| Andrew Gartner | Software Engineer | programming, problem solving |
+| Paul Harmon | Cyper Security Practice Lead | cryptography, systems adminsitration, security management, problem solving |
+| Lee May | Mobile Application Developer | programming, problem solving |
 
-Andrew: Software Engineer - programming, problem solving
-
-Paul: Cyper Security Practice Lead - cryptography, systems adminsitration, security management, problem solving
-
-Lee: Mobile Application Developer - programming, problem solving
+-----
 
 ## Ideal Jobs Summary and Analysis
 
@@ -27,4 +29,3 @@ So far as the dynamic of the group is concerned, with relation to the ideal jobs
 | | | | |
 | :-: | :-: | :-: | :-: |
 | [Home](index.md) | [Personal Information](personal-information.md) | [Team Profile](team-profile.md) | [Ideal Jobs](ideal-jobs.md) |
-| | | | |
