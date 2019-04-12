@@ -26,4 +26,4 @@ Maintaining this personality momentum will most likely be the only challenge as 
 
 | | | | |
 | :-: | :-: | :-: | :-: |
-| [Home](index.md) | [Personal Information](personal-information.md) | [Team Profile](team-profile.md) | [Ideal Jobs](ideal-jobs.md) |
+| [Home](index.md) | [Team Profile](team-profile.md) | [Ideal Jobs](ideal-jobs.md) |
