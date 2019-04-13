@@ -2,7 +2,7 @@
 
 -----
 
-| Tem Member | Role | Key Skills |
+| Team Member | Role | Key Skills |
 | --- | --- | --- |
 | Darren Bonelli | Senior Technical Developer | programming, management, leadership, team leader, project management |
 | Charlon Cachuela | Senior Technology Officer | management, project management, systems administration, systems architect |
