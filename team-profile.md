@@ -9,7 +9,7 @@
 | Darren Bonelli | The Mediator (INFP-A)  | Visual Learner | introverted, intuitive, thinker, healer, craftsperson, architect, visual learner, openness, neuroticism, quiet person, hands on approach |
 | Charlon Cachuela | The Mediator (INFP-A) | Visual Learner | extraverted, formal, serious, quiet and reserved, analytic mind frame |
 | Andrew Gartner | Advocate (INFJ-A) | Visual Learner | advocate, idealistic, task oriented, visual learner, practical, openness, conscientious, agreeable |
-| Paul May | The Mediator (INFP-A) | Visual Learner | mediator, analytic, diplomat, principled, visual leaner, structured, ordered, creative, clam under pressure |
+| Paul Harman | The Mediator (INFP-A) | Visual Learner | mediator, analytic, diplomat, principled, visual leaner, structured, ordered, creative, clam under pressure |
 | Lee May | The Inspector (ISTJ) | Visual Learner | introverted, sensing, thinking, judging, openness, introverted, agreeable, conscientious |
 
 ## Team Profile Summary and Analysis
