@@ -54,7 +54,7 @@ Paul has been immersed in technology for many years, having started using comput
 
 Paul, like Charlon, speaks another language, being Japanese and is making progress with Cantonese. Living with two dogs, Koko and Spot, in Central Queensland, takes up Paul's time when not woking on his own personal data centre located in his house.
 
-Paul is an advocate for positive and constructuve attitudes towards mental illness and other conditions affecting the brain, placing a focus of the importance of acceptance for those of us who are outside societies norms.
+Paul is an advocate for positive and constructive attitudes towards mental illness and other conditions affecting the brain, placing a focus of the importance of acceptance for those of us who are outside societies norms.
 
 -----
 
