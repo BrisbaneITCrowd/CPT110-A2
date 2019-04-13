@@ -44,9 +44,9 @@ Much like some of the others in the group, Andrew has been working in technology
 
 -----
 
-## Paul Harmon
+## Paul Harman
 
-Name: Paul Harmon > [Profile](https://ahzrael.github.io/RMIT-IntotoIT-A1/)
+Name: Paul Harman > [Profile](https://ahzrael.github.io/RMIT-IntotoIT-A1/)
 
 Student number: s3789959
 
